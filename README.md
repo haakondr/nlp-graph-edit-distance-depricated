@@ -13,7 +13,7 @@ This representation is used as a measure of similarity between two sentences.
 # Quick start
 From the command line in the project root directory:
 
-    mvn compile
+    mvn install
     mvn exec:java
 
 Enter two sentences, and the graph edit distance will be printed
