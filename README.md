@@ -8,7 +8,7 @@ Below is an example of how the the edit operations between the two sentences:
  * Mary was kissed by Bob
  * Bob kissed Mary
 
-![My image](http://github.com/user/repository/master/img/edit_operations.pdf)
+![My image](https://github.com/haakondr/nlp-graph-edit-distance/blob/master/img/edit_operations.pdf)
 --------------------------------
 
 # Dependencies
