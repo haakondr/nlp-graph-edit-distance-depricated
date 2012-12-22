@@ -12,6 +12,7 @@ This representation is used as a measure of similarity between two sentences.
 
 # Quick start
 From the command line in the project root directory:
+
     mvn compile
     mvn exec:java
 
